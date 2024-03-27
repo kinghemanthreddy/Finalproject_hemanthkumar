@@ -55,7 +55,7 @@ Hyperparameter tuning enhances AdaBoost model, demonstrating superior performanc
 
 
 ## Articles published / References
-1.N. Hoque, D. K. Bhattacharyya, and J. K. Kalita, “A mutual information-based feature selection method,” Expert Systems with Applications, vol. 41, no. 14, pp. 6371–6385, 2014.
+1.N. Hoque, D. K. Bhattacharyya, and J. K. Kalita, “A mutual information-based feature selection method,” Expert Systems with Applications, vol. 41, no. 14, pp. 6371–6385, 2014.<br>
 2.I. AlShourbaji, N. Helian, Y. Sun, and M. Alhameed, “Anovel HEOMGA approach for class imbalance problem in the application of customer churn prediction,” SN Computer Science, vol. 2, no. 6, pp. 1–12, 2021.
 3.H. Jain, A. Khunteta, and S. Srivastava, “Churn prediction in telecommunication using logistic regression and logit boost,” Procedia Computer Science, vol. 167, pp. 101–112, 2020.
 4.S. Wang, L. L. Minku, and X. Yao, “Online class imbalance learning and its applications in fault detection,” International Journal of Computational Intelligence and Applications, vol. 12, no. 4, Article ID 1340001, 2013.
